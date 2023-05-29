@@ -512,15 +512,15 @@ body {
 
 ### Home Page:
 
-![proj001](./images/proj001.jpg)
-![proj002](./images/proj002.jpg)
-![proj003](./images/proj003.jpg)
-![proj003](./images/proj004.jpg)
-![proj003](./images/proj005.jpg)
-![proj003](./images/proj006.jpg)
-![proj003](./images/proj007.jpg)
-![proj003](./images/proj008.jpg)
-![proj003](./images/proj009.jpg)
+![proj001](./images/proj001.png)
+![proj002](./images/proj002.png)
+![proj003](./images/proj003.png)
+![proj003](./images/proj004.png)
+![proj003](./images/proj005.png)
+![proj003](./images/proj006.png)
+![proj003](./images/proj007.png)
+![proj003](./images/proj008.png)
+![proj003](./images/proj009.png)
 
 ## Result:
 

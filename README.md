@@ -511,16 +511,17 @@ body {
 ## OUTPUT:
 
 ### Home Page:
+![proj001](https://github.com/Sujithra-dhayalan/productcompanywebsite/assets/115523950/a42a3db4-6534-419a-bafc-4209aef51b9b)
+![proj002](https://github.com/Sujithra-dhayalan/productcompanywebsite/assets/115523950/baeb79a4-973c-4f44-ba67-64d90ac2c878)
+![proj003](https://github.com/Sujithra-dhayalan/productcompanywebsite/assets/115523950/a2934b77-8fef-452a-8b7d-55085fa25299)
+![proj004](https://github.com/Sujithra-dhayalan/productcompanywebsite/assets/115523950/447ab2cd-e0f3-422e-83e5-d78d6890c39e)
+![proj005](https://github.com/Sujithra-dhayalan/productcompanywebsite/assets/115523950/9929ad90-df53-4d94-8b8f-f179532d47f7)
+![proj006](https://github.com/Sujithra-dhayalan/productcompanywebsite/assets/115523950/8bd65eaf-fd29-4ee0-b9a5-f55a0ff9aab0)
+![proj007](https://github.com/Sujithra-dhayalan/productcompanywebsite/assets/115523950/19a2fd95-ca19-4374-9f51-8ab6a05b22dd)
+![proj008](https://github.com/Sujithra-dhayalan/productcompanywebsite/assets/115523950/04f7129f-254c-4496-9761-3f7c12687c96)
+![proj009](https://github.com/Sujithra-dhayalan/productcompanywebsite/assets/115523950/0d7e1f54-ff71-4ccc-8fc6-19ebdf0bf539)
 
-![proj001](./images/proj001.png)
-![proj002](./images/proj002.png)
-![proj003](./images/proj003.png)
-![proj003](./images/proj004.png)
-![proj003](./images/proj005.png)
-![proj003](./images/proj006.png)
-![proj003](./images/proj007.png)
-![proj003](./images/proj008.png)
-![proj003](./images/proj009.png)
+
 
 ## Result:
 

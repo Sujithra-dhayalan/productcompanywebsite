@@ -367,7 +367,7 @@ Publish the website in the given URL.
 </html>
 ```
 
-## CSS CODE:
+## STYLE.CSS CODE:
 
 ```
 * {
@@ -512,15 +512,15 @@ body {
 
 ### Home Page:
 
-![output](./images/proj001.jpg)
-![output](./images/proj002.jpg)
-![output](./images/proj003.jpg)
-![output](./images/proj004.jpg)
-![output](./images/proj005.jpg)
-![output](./images/proj006.jpg)
-![output](./images/proj007.jpg)
-![output](./images/proj008.jpg)
-![output](./images/proj009.jpg)
+![proj001](./images/proj001.jpg)
+![proj002](./images/proj002.jpg)
+![proj003](./images/proj003.jpg)
+![proj003](./images/proj004.jpg)
+![proj003](./images/proj005.jpg)
+![proj003](./images/proj006.jpg)
+![proj003](./images/proj007.jpg)
+![proj003](./images/proj008.jpg)
+![proj003](./images/proj009.jpg)
 
 ## Result:
 
